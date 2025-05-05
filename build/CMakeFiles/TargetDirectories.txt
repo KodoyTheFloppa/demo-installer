@@ -1,0 +1,4 @@
+/home/wendigo/demo-installer/build/CMakeFiles/demo-installer.dir
+/home/wendigo/demo-installer/build/CMakeFiles/edit_cache.dir
+/home/wendigo/demo-installer/build/CMakeFiles/rebuild_cache.dir
+/home/wendigo/demo-installer/build/CMakeFiles/demo-installer_autogen.dir

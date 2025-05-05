@@ -1,0 +1,7 @@
+<RCC>
+    <qresource>
+        <file>postgresql.deb</file>
+        <file>wine.deb</file>
+        <file>test.bash</file>
+    </qresource>
+</RCC>
